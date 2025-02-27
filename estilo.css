@@ -153,4 +153,19 @@ body{
 }
 .item-categoria{
     text-decoration: none;
+    padding: 0;
+    margin: 0;
+}
+.produtos{
+    width: 1110px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 48px;
+
+}
+.lista-produtos{
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
